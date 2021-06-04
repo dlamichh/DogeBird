@@ -14,3 +14,5 @@ These are the score needed to transition to another planets.
 6. Europa : 160<Score< 320
 7. Titan : 320<Score
 # DogeBird
+
+                     Deployed at https://infallible-bell-a55e12.netlify.app/
